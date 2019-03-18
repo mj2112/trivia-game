@@ -1,0 +1,41 @@
+body {
+    background-size: cover;
+    color: azure;
+    font-size: 24px;
+}
+
+#timeRemaining {
+    height: 50px;
+    margin: 20px auto;
+}
+
+body h1 {
+    color: azure;
+    font-size: 46px;
+    font-weight: 900;
+}
+
+div h1 {
+    margin: 30 0 10px 0;
+}
+
+p {
+    background: rgba(22, 95, 204, 0.6);
+    font-weight: 900;
+    border: 1px solid azure;
+    padding: 2px;
+}
+
+button {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background: rgba(22, 95, 204, 0.8);
+    color: azure;
+}
+
+#qAndA {
+    color: azure;
+    margin: 10px auto 30px auto;
+    font-size: 26px;
+    height: 70px;
+}
